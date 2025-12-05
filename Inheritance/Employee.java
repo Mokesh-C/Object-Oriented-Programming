@@ -24,7 +24,6 @@ public class Employee {
         this.salary = other.salary;
     }
 
-
 }
 
 
