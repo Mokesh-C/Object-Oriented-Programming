@@ -9,7 +9,7 @@ public class Deposit extends Transaction{
     String process() {
         return "Deposited " + amount + " to account " + accountNumber;
     }
-
+    
     @Override
     String description() {
         return "This is a deposit transaction.";
