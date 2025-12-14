@@ -1,4 +1,4 @@
-# Object-Oriented Programming in Java — Learning Examples
+# Object-Oriented Programming in Java
 
 This repository contains small, focused Java examples that demonstrate core Object-Oriented Programming (OOP) concepts. Each topic is provided as a separate package (folder) and includes example classes and a `Main` class that demonstrates the concept.
 
